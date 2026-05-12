@@ -37,7 +37,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: Chowdhury-MAI@ulster.ac.uk
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://azmainic.github.io/
 - 💼 LinkedIn: https://www.linkedin.com/in/md-azmain-iktidar-chowdhury-2a2a32249/
 
 ---
